@@ -1,0 +1,28 @@
+{
+	"info": {
+		"_postman_id": "1bc43f85-f63f-4fcc-bf98-091c841998ed",
+		"name": "party-management",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "lb-test",
+			"item": [
+				{
+					"name": "publicKey",
+					"_postman_id": "bbeafa66-6a33-4769-8e2c-2d474bd40cdf",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": null
+					},
+					"response": []
+				}
+			],
+			"_postman_id": "d529be2c-8a9e-492a-96a5-c89e27ab54da"
+		}
+	]
+}

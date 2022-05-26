@@ -10,19 +10,30 @@
 			"item": [
 				{
 					"name": "publicKey",
-					"_postman_id": "bbeafa66-6a33-4769-8e2c-2d474bd40cdf",
+					"id": "bbeafa66-6a33-4769-8e2c-2d474bd40cdf",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
 					"request": {
 						"method": "GET",
-						"header": [],
-						"url": null
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "publicKey.name",
+					"id": "5f60730e-5e21-427f-b94e-95b5b4f83551",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": []
 					},
 					"response": []
 				}
 			],
-			"_postman_id": "d529be2c-8a9e-492a-96a5-c89e27ab54da"
+			"id": "d529be2c-8a9e-492a-96a5-c89e27ab54da"
 		}
 	]
 }
